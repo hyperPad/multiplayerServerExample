@@ -1,13 +1,13 @@
 {
   "name": "multiplayer",
   "version": "1.0.0",
-  "description": "multiplayer example",
+  "description": "Multiplayer socket.io example",
   "main": "index.js",
   "scripts": {
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Hamed Saadat",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",

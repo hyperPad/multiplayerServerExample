@@ -1,0 +1,11 @@
+{
+  "name": "Node.js Socket.io Multiplayer example",
+  "description": "A Very simple multiplayer server intended to be used with the hyperPad socket.io multiplayer example",
+  "repository": "https://github.com/hyperPad/multiplayerServerExample",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io"
+  ]
+}
